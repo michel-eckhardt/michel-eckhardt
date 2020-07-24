@@ -35,7 +35,7 @@
 
 ## 💬 I’m currently learning
 <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
-Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+<p>Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.</p>
 <br/>
   <br/>
 
