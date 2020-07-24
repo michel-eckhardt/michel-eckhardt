@@ -6,13 +6,14 @@
 	- Java ❤️
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	
 - **Framework**
 	- Spring boot :white_check_mark:
-	- VueJS 
-        - NodeJS 
+	- VueJS
+	- NodeJS 
   
 - **Database**
 	- PostgreSQL :white_check_mark:
