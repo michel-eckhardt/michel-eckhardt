@@ -3,7 +3,7 @@
  <br/>
 ## Ask me about :computer: 
 - **Programming**
-	- Java ❤️
+	- Java :white_check_mark:
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
@@ -35,6 +35,7 @@
 
 ## 💬 I’m currently learning
 <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
+Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 <br/>
   <br/>
 
