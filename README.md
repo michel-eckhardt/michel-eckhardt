@@ -12,6 +12,8 @@
 	
 - **Framework**
 	- Spring boot :white_check_mark:
+	- Spring Security
+	- Spring Cloud
 	- VueJS
 	- NodeJS 
   
@@ -30,6 +32,9 @@
 	- SNS
 	- IAM
 	- S3
+	
+- **Containers**
+	- Docker
 
 <br/><br/>
 
